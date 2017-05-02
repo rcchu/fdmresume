@@ -28,18 +28,9 @@
       }, {
         "name": "CSS",
         "number_of_years": 2
-	  }]
-	},{
-	  "category": "Databases",
-      "technologies":[{
+	  }, {
         "name": "MySQL",
         "number_of_years": 2
-      }]
-	},{
-	  "category": "Version Control",
-      "technologies":[{
-        "name": "Git",
-        "number_of_years": 3
       }]
     }
   ],
